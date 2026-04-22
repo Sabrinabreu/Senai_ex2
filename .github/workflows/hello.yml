@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Dizer Olá
-      run: echo "Olá, pipeline funcionando!"
+        run: echo "Olá, pipeline funcionando!"
